@@ -1,0 +1,9 @@
+train: /content/drive/MyDrive/TraningML/yolov5/data/train/images  # 4311 images
+val: /content/drive/MyDrive/TraningML/yolov5/data/test/images # 1437 images
+
+# number of classes
+nc: 17
+
+# class names
+names: ['dog','person','cat','tv','car','meatballs','marinara sauce','tomato soup',
+'chicken noodle soup','french onion soup','chicken breast','ribs','pulled pork','hamburger','cavity','mask','no_mask' ]
