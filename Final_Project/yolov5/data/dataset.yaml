@@ -1,5 +1,5 @@
-train: /content/drive/MyDrive/TraningML/yolov5/data/train/images  # 4311 images
-val: /content/drive/MyDrive/TraningML/yolov5/data/test/images # 1437 images
+train: /content/content/drive/MyDrive/TraningML/yolov5/data/train/images  # 4311 images
+val: /content/content/drive/MyDrive/TraningML/yolov5/data/test/images # 1437 images
 
 # number of classes
 nc: 17
